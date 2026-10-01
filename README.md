@@ -180,34 +180,6 @@ The demo ends with a message to the player: *"Thanks for playing the game I've b
 
 A creature-collecting RPG is dozens of systems that depend on each other. Battles need stats, stats need a database, the database needs to be saved, saving needs the state of every other system, and the story decides when any of it can happen. Building all of that in Scratch, without the tools a professional language provides, made me understand *why* those tools exist. By the time I learned what classes, arrays of objects, enums and state machines were, I had already built the hard version myself, so I knew exactly what problem each one solved.
 
-### Programming
-- **Data modeling:** designed and maintained a creature and move database of more than 100 entries, keeping it consistent across many parallel lists
-- **Game logic and math:** damage calculation, type effectiveness, catch probability, weighted encounter tables, experience curves and evolution triggers
-- **State management:** kept 250 variables and a story progression system from conflicting with one another
-- **Event-driven design:** coordinated 61 sprites through 222 messages without breaking battles or cutscenes
-- **Serialization:** encoded and decoded an entire game state with no data loss
-- **Debugging at scale:** traced problems through roughly 21,800 blocks, where any sprite could be the source
-
-### Game design
-- **The core loop:** explore, encounter, battle, catch, grow, made to feel rewarding from the first minute
-- **Balance:** tuned stats, stamina costs and power across 104 moves and the type chart
-- **Encounter design:** decided which Elemains live where, and how rare each should be
-- **Onboarding:** built a tutorial, a guided first battle and an objective system so new players are never lost
-- **Pacing:** structured the opening so that the story, the arena and the reward of setting sail land in the right order
-- **Scope:** learned what belongs in a demo, and what has to wait for the full game
-
-### Music and sound
-- Composed an original soundtrack covering exploration, battles and story moments
-- Studied the soundtracks of my favorite games to understand how music creates a place's identity, raises tension and carries emotion
-- Designed sound effects and integrated more than 260 audio assets into the game
-- Learned to think of music as part of the game's design, not decoration added at the end
-
-### Art and storytelling
-- Designed and illustrated 35 playable Elemains, along with characters, environments, interfaces and cutscenes, all in vector art
-- Developed a consistent visual style, and later documented it as formal design rules
-- Wrote the story, characters and all in-game dialogue, giving each character a distinct voice in only a few lines
-- Edited and produced the official trailer
-
 ### Professional growth
 - **Taking honest criticism:** I put years of work in front of a hard critique and used it to find what truly makes Elemains different, rather than defending what I had
 - **Documentation:** turned ideas that only lived in my head into a full game design document, a style guide, a creature and move database, and a technical reference that someone else could work from
@@ -220,7 +192,7 @@ Everything I learned here has carried into my other work: writing C# in **Unity*
 
 ### The biggest lesson
 
-The gap between a project and a product isn't talent. It's structure, honesty about what isn't working yet, and the willingness to rebuild something you're proud of so it can become what it was meant to be. I built a full RPG in a tool designed for beginners. Now I'm building it again, properly — and I understand why every piece is there.
+The gap between a project and a product isn't talent. It's structure, honesty about what isn't working yet, and the willingness to rebuild something you're proud of so it can become what it was meant to be. I built a full RPG in a tool designed for beginners. Now I'm building it again, and I understand why every piece is there.
 
 ---
 
