@@ -28,8 +28,8 @@ In the region of Altos, creatures called **Elemains** live everywhere, but only 
 |---|---|
 | **Genre** | Creature-collecting RPG |
 | **Built in** | Scratch 3.0 |
-| **Made by** | One developer: design, programming, art, animation, writing, music and sound |
-| **Timeline** | 2022 – January 2026 · started at 14, published after four years |
+| **Made by** | Dream Arishtene: design, programming, art, animation, writing, music and sound |
+| **Timeline** | November 2021 – January 2026 · started at 14, released after four years |
 | **Playable creatures** | 35 Elemains, each with stats, types, moves and evolutions |
 | **Moves** | 104, across 14 types |
 | **Project size** | 61 sprites · ~21,800 code blocks · 907 costumes · 267 sounds · 250 variables · 106 data lists · 222 broadcast messages |
